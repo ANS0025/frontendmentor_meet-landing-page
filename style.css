@@ -241,7 +241,7 @@ footer{
 
 /* タブレット版
 ----------------------------------------------------------------------- */
-@media (min-width: 768px) and (max-width:1023px){
+@media (min-width: 768px) and (max-width:1245px){
     /* ボディ */
 body{
     display: flex;
